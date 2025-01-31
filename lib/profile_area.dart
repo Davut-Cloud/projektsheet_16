@@ -40,7 +40,7 @@ class ProfileArea extends StatelessWidget {
           textAlign: TextAlign.center,
           style: TextStyle(
             fontSize: 16,
-            height: 1.5, // Zeilenhöhe für bessere Lesbarkeit
+            height: 1.5, // Zeilenhöhe
           ),
         ),
       ],
